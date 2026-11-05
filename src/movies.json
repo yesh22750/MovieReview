@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "title": "Jai Bhim",
+    "year": 2021,
+    "language": "Tamil",
+    "genre": "Drama",
+    "director": "T. J. Gnanavel",
+    "runtime": "2h 44m",
+    "cast": [
+      "Suriya",
+      "Lijomol Jose",
+      "Manikandan",
+      "Rajisha Vijayan"
+    ],
+    "synopsis": "A determined lawyer takes up the case of a tribal man who has gone missing after being arrested, seeking justice for his family.",
+    "note": "A powerful courtroom drama about dignity, truth and the fight for justice.",
+    "cover": "https://images.hindustantimes.com/img/2021/11/08/original/jai_bhim_1636345918619.jpeg",
+    "accent": "#c86d48",
+    "featured": true,
+    "averageRating": 4.5,
+    "ratingCount": 120
+  },
+  {
+    "id": 2,
+    "title": "Soorarai Pottru",
+    "year": 2020,
+    "language": "Tamil",
+    "genre": "Drama",
+    "director": "Sudha Kongara",
+    "runtime": "2h 29m",
+    "cast": [
+      "Suriya",
+      "Aparna Balamurali",
+      "Paresh Rawal",
+      "Mohan Babu"
+    ],
+    "synopsis": "An ambitious young man dreams of making air travel affordable for ordinary people, despite powerful obstacles.",
+    "note": "An energetic story of ambition, persistence and taking flight.",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzViMTk4YWUtZWNkOS00MTRiLWJiYzgtYWRkODA1NDFkZDk0XkEyXkFqcGc%40._V1_.jpg",
+    "accent": "#d48a43",
+    "averageRating": 4.3,
+    "ratingCount": 120
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "language": "English",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "runtime": "2h 49m",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "synopsis": "A group of explorers travels beyond this galaxy to discover whether mankind has a future among the stars.",
+    "note": "A grand science-fiction journey with an intimate emotional centre.",
+    "cover": "https://www.newdvdreleasedates.com/images/posters/large/interstellar-2014-08.jpg",
+    "accent": "#7c8caa",
+    "averageRating": 4.3,
+    "ratingCount": 120
+  },
+  {
+    "id": 4,
+    "title": "Knives Out",
+    "year": 2019,
+    "language": "English",
+    "genre": "Mystery",
+    "director": "Rian Johnson",
+    "runtime": "2h 10m",
+    "cast": [
+      "Daniel Craig",
+      "Ana de Armas",
+      "Chris Evans",
+      "Jamie Lee Curtis"
+    ],
+    "synopsis": "A detective investigates the death of a wealthy mystery novelist, uncovering secrets within the family.",
+    "note": "A playful whodunit packed with sharp turns and memorable characters.",
+    "cover": "https://www.mkin24.ru/_ld/23/39247840.jpg",
+    "accent": "#a5a05b",
+    "averageRating": 4,
+    "ratingCount": 120
+  },
+  {
+    "id": 5,
+    "title": "Manjummel Boys",
+    "year": 2024,
+    "language": "Malayalam",
+    "genre": "Thriller",
+    "director": "Chidambaram",
+    "runtime": "2h 15m",
+    "cast": [
+      "Soubin Shahir",
+      "Sreenath Bhasi",
+      "Balu Varghese",
+      "Ganapathi"
+    ],
+    "synopsis": "A holiday among friends takes a terrifying turn when one of them becomes trapped in the Guna Caves.",
+    "note": "A tense survival story rooted in friendship and extraordinary courage.",
+    "cover": "https://chinmaynakhwa.wordpress.com/wp-content/uploads/2024/02/wp-17088425308953105425768754748561.jpg",
+    "accent": "#d2a65f",
+    "averageRating": 4.1,
+    "ratingCount": 120
+  },
+  {
+    "id": 6,
+    "title": "Drishyam",
+    "year": 2013,
+    "language": "Malayalam",
+    "genre": "Thriller",
+    "director": "Jeethu Joseph",
+    "runtime": "2h 40m",
+    "cast": [
+      "Mohanlal",
+      "Meena",
+      "Ansiba Hassan",
+      "Esther Anil"
+    ],
+    "synopsis": "A family man uses his resourcefulness to protect his loved ones when an unexpected incident changes their lives.",
+    "note": "A tightly constructed thriller that keeps its audience guessing.",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZDZkM2U0Y2ItMTAwOC00MTc3LWI5NTQtZTk3Yjc2NGI5MWYzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+    "accent": "#78927d",
+    "averageRating": 4.2,
+    "ratingCount": 120
+  },
+  {
+    "id": 7,
+    "title": "RRR",
+    "year": 2022,
+    "language": "Telugu",
+    "genre": "Action",
+    "director": "S. S. Rajamouli",
+    "runtime": "3h 7m",
+    "cast": [
+      "N. T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt",
+      "Ajay Devgn"
+    ],
+    "synopsis": "A fictional tale follows two legendary revolutionaries and their extraordinary friendship in colonial India.",
+    "note": "A spectacular action epic built around loyalty and larger-than-life heroism.",
+    "cover": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE%40._V1_FMjpg_UX1000_.jpg",
+    "accent": "#c56e42",
+    "averageRating": 3.9,
+    "ratingCount": 120
+  },
+  {
+    "id": 8,
+    "title": "Sita Ramam",
+    "year": 2022,
+    "language": "Telugu",
+    "genre": "Romance",
+    "director": "Hanu Raghavapudi",
+    "runtime": "2h 43m",
+    "cast": [
+      "Dulquer Salmaan",
+      "Mrunal Thakur",
+      "Rashmika Mandanna",
+      "Sumanth"
+    ],
+    "synopsis": "A letter from a woman sets off a journey to uncover the story of an army officer and a mysterious love.",
+    "note": "A gentle romantic drama told through letters, memory and longing.",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZTAwMjQzNzgtNGNhMC00Y2FiLWIyNzItNmNjMmM2ZDA5NmZmXkEyXkFqcGc%40._V1_.jpg",
+    "accent": "#bd8a83",
+    "averageRating": 4.3,
+    "ratingCount": 120
+  },
+  {
+    "id": 9,
+    "title": "Kantara",
+    "year": 2022,
+    "language": "Kannada",
+    "genre": "Action",
+    "director": "Rishab Shetty",
+    "runtime": "2h 28m",
+    "cast": [
+      "Rishab Shetty",
+      "Kishore",
+      "Achyuth Kumar",
+      "Sapthami Gowda"
+    ],
+    "synopsis": "A conflict between a village and the forest department brings local traditions, land and belief into focus.",
+    "note": "A rooted folk-action drama with striking atmosphere and intensity.",
+    "cover": "https://fr.web.img6.acsta.net/pictures/22/09/27/16/31/5667288.jpg",
+    "accent": "#b65b3e",
+    "averageRating": 4.1,
+    "ratingCount": 120
+  },
+  {
+    "id": 10,
+    "title": "777 Charlie",
+    "year": 2022,
+    "language": "Kannada",
+    "genre": "Adventure",
+    "director": "Kiranraj K",
+    "runtime": "2h 44m",
+    "cast": [
+      "Rakshit Shetty",
+      "Charlie",
+      "Sangeetha Sringeri",
+      "Raj B. Shetty"
+    ],
+    "synopsis": "A solitary factory worker finds a new sense of purpose after an energetic dog enters his life.",
+    "note": "A warm road-trip story about companionship and personal change.",
+    "cover": "https://www.cinestar.de/media/cache/web_xl/media/filmbilder/7/777-charlie/777-charlie_basepic.jpg",
+    "accent": "#c18b4e",
+    "averageRating": 4,
+    "ratingCount": 120
+  }
+]
