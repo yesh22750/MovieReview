@@ -9,6 +9,19 @@ VITE_OMDB_API_KEY=YOUR_OMDB_API_KEY
 3. `npm run dev`
 4. `npm run build`
 
+   ## Troubleshooting
+
+### Could not load movies
+
+If the application displays:
+
+> **Could not load movies**  
+> timeout of 12000ms exceeded
+
+this indicates that the movie API request did not receive a response within the configured 12-second timeout.
+
+The application uses the OMDb API for movie data. Check the OMDb API key and network/API availability if this error occurs.
+
 ## API architecture
 - Axios is used for TMDB and OMDb requests.
 - TMDB Read Access Token is sent as `Authorization: Bearer ...`.
